@@ -21,6 +21,10 @@ int main() // fungsi utama
     double angka5 = 20.30;
     printf("Angka 1 = %i, angka 2= %d, Angka 3 = %f\n", angka1,angka2,angka3);
     printf("Angka 5 = %lf",angka5);
+
+    char karakter = '*';
+    printf("Karakter dari variabel tsb = %c",karakter);
+
     
     return 0;
 }
