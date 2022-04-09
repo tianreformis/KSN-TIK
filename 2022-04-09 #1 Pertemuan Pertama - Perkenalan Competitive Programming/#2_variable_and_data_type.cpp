@@ -11,7 +11,6 @@ int main() // fungsi utama
     // variabel lokal
     int angka2 = 20;
     int angka1 = 10;
-
     //var angka1 ubah nilai menjadi 30
     // cara 1 = angka1=30;
     // cara 2 = angka1 += 20;
