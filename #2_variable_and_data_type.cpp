@@ -14,5 +14,6 @@ int main() // fungsi utama
     float angka3 = 30.20;
     printf("Angka 1 = %i, angka 2= %d, Angka 3 = %f\n", angka1,angka2,angka3);
     
+    //var angka 1 ubah menjadi 30
     return 0;
 }
